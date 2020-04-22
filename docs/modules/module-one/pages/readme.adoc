@@ -1,22 +1,22 @@
-= My Document's Title
+== My Document's Title
 
-My document provides...
+=== My document provides...
 
 Paragraphs don't require any special markup in AsciiDoc.
 A paragraph is just one or more lines of consecutive text.
 
-NOTE: An admonition paragraph draws the reader's attention to
+== NOTE: An admonition paragraph draws the reader's attention to
 auxiliary information.
 Its purpose is determined by the label
 at the beginning of the paragraph.
 
-Here are the other built-in admonition types:
+=== Here are the other built-in admonition types:
 
-TIP: Pro tip...
+== TIP: Pro tip...
 
 IMPORTANT: Don't forget...
 
-WARNING: Watch out for...
+=== WARNING: Watch out for...
 
 CAUTION: Ensure that...
 
