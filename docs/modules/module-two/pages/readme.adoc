@@ -1,0 +1,7 @@
+= COOOOOOOOOOOOOOOL
+
+My document provides...
+
+Paragraphs don't require any special markup in AsciiDoc.
+A paragraph is just one or more lines of consecutive text.
+
