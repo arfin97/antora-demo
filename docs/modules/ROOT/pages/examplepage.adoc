@@ -14,4 +14,8 @@ image::ROOT:image.jpg[]
 
 xref:ROOT:index.adoc[GO to index]
 
+include::ROOT:partial$common.adoc[]
+
+include::partial$common.adoc[]
+
 == END
