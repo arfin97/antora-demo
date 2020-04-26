@@ -7,6 +7,9 @@ The other docs component, Component A, can be accessed via the component selecto
 
 == Page source
 
+link:{attachmentsdir}/file.rar[Download the File example] and run it.
+
+
 This page is sourced from the AsciiDoc file named [.path]_index.adoc_ that is located at [.path]_demo-component-b/docs/modules/ROOT/pages_.
 
 === Why is this the home page of Component B?
