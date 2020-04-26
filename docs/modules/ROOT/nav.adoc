@@ -1,7 +1,10 @@
+.Navigation Starts
 * xref:index.adoc[Welcome]
 ** xref:index.adoc[Welcome 2]
 *** xref:index.adoc[Welcome 3]
 ** xref:index.adoc[Welcome 4]
+* https://other-website.com/url[Link to another website]
+
 . xref:index.adoc[Welcome 5]
 xref:index.adoc[Welcome 5]
 xref:index.adoc[Welcome 5]
