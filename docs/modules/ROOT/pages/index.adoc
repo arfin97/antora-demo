@@ -13,6 +13,8 @@ link:{attachmentsdir}/file.rar[Download the File example] and run it.
 include::example$code.java[]
 ----
 
+image::ROOT:image.jpg[]
+
 == END
 
 
