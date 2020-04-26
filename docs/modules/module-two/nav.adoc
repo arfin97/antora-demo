@@ -1,1 +1,3 @@
-* xref:readme.adoc[Module 2]
+xref:readme.adoc[Module 2]
+
+* xref:readme.adoc[Module 2.3]

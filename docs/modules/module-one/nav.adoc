@@ -1,1 +1,3 @@
 * xref:readme.adoc[Module One]
+** xref:ROOT:index.adoc[index page]
+
