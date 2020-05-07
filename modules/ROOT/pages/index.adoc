@@ -34,7 +34,7 @@ Spring Cloud Config is Spring's client/server approach for storing and serving d
 * xref:microservices:spring-cloud-configuration-server:spring-cloud-configuration-server.adoc[Start Learning]
 
 [.card]
-=== Configuration Server
+=== Monitoring Server
 
 Spring Cloud Config is Spring's client/server approach for storing and serving distributed configurations across multiple applications and environments. This configuration store is ideally versioned under Git version control and can be modified at application runtime
 
