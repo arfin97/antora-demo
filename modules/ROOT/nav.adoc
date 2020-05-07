@@ -1,1 +1,2 @@
 * xref:index.adoc[Welcome]
+* xref:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
