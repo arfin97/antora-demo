@@ -4,3 +4,4 @@ version: master
 preview: true
 nav:
   - modules/ROOT/nav.adoc
+  - modules/spring-cloud-configuration-server/nav.adoc
