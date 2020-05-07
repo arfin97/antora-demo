@@ -7,7 +7,7 @@ Beginner | Intermediate | Advance
 :page-layout: home
 :!sectids:
 
-This java training has been designed into three segments.
+This Microservice training has been designed into three segments.
 
 [.cards.cards-3.personas.conceal-title]
 == {empty}
@@ -25,6 +25,13 @@ It’s a registry that acts like a phone-book for your microservices. Eureka its
 Spring Cloud Gateway is built on Spring Boot 2.x, Spring WebFlux, and Project Reactor. As a consequence, many of the familiar synchronous libraries (Spring Data and Spring Security, for example) and patterns you know may not apply when you use Spring Cloud Gateway. If you are unfamiliar with these projects, we suggest you begin by reading their documentation to familiarize yourself with some of the new concepts before working with Spring Cloud Gateway
 
 * xref:microservices:spring-cloud-gateway-server:spring-cloud-gateway-server.adoc[Start Learning]
+
+[.card]
+=== Configuration Server
+
+Spring Cloud Config is Spring's client/server approach for storing and serving distributed configurations across multiple applications and environments. This configuration store is ideally versioned under Git version control and can be modified at application runtime
+
+* xref:microservices:spring-cloud-configuration-server:spring-cloud-configuration-server.adoc[Start Learning]
 
 [.card]
 === Configuration Server
