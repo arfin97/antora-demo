@@ -1,5 +1,5 @@
 * xref:index.adoc[Welcome]
 * Core
-** xref:spring-cloud-configuration-server:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
 ** xref:spring-cloud-discovery-server:spring-cloud-discovery-server.adoc[Spring Cloud Discovery Server]
 ** xref:spring-cloud-gateway-server:spring-cloud-gateway-server.adoc[Spring Cloud Gateway Server]
+** xref:spring-cloud-configuration-server:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
