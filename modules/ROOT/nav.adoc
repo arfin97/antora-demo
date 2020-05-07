@@ -1,5 +1,6 @@
 * xref:index.adoc[Welcome]
 * xref:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
-* xref:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
+
 * xref:get-started:implement-api.adoc[implement an API]
 * xref:spring-cloud-configuration-server:spring-cloud-configuration-server.adoc[Configuration]
+* xref:spring-cloud-configuration-server.adoc[Spring Cloud Configuration Server]
