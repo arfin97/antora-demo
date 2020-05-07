@@ -1,0 +1,5 @@
+name: microservices
+title: Spring cloud discovery server
+version: master
+nav:
+- modules/ROOT/nav.adoc
