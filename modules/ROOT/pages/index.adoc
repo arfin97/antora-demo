@@ -13,22 +13,22 @@ This java training has been designed into three segments.
 == {empty}
 
 [.card]
-=== Beginner
+=== Discovery Server
 
 No prior knowledge required to start from the beginner level.
 Programming concepts (e.g. data structure, object oriented programming etc) as well as Java core concepts will be covered in this level.
 After completion of this segment trainee can do basic java programming.
 
-* xref:microservices:index.adoc[Start Learning]
+* xref:microservices:spring-cloud-discovery-server:spring-cloud-discovery-server.adoc[Start Learning]
 
 [.card]
-=== Intermediate
+=== Gateway Server
 
 Spring framework in depth will be covered in this segment.
 After completion of this segment trainee can solve small to medium level business problem through java programming.
 
 [.card]
-=== Advance
+=== Configuration Server
 
 Large distributed system development and architecture design will be covered in this segment.
 
